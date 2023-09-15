@@ -33,6 +33,12 @@ const World = () => (
       <div className="absolute top-1/3 right-[48%] w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680]">
         <img src="people-03.png" alt="people" className="w-full h-full"/>
       </div>
+      <div className="absolute top-1/3 left-[7%]">
+        <img src="pink.png" alt="people" className="w-full h-full"/>
+      </div>
+      <div className="absolute top-[-50px] right-[10%]">
+        <img src="violet.png" alt="people" className="w-full h-full"/>
+      </div>
     </motion.div>
   </motion.div>
   </section>
